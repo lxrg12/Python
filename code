@@ -1,2 +1,10 @@
-# Here I will begin writing code for python
-print('Hello World!')
+def main():
+
+    # Here I will begin writing code for python
+    print('Hello World!')
+
+
+
+
+
+main()
